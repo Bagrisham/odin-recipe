@@ -1,2 +1,2 @@
-# odin-recipe
-a repo for the recipes project (Odin)
+# Recipes - The Odin Project
+A repo for the recipes project (Odin).
